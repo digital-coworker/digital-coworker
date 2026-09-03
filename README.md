@@ -12,8 +12,13 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%"/>
 
-<!-- 🐍 Surprise snake eating the contribution graph -->
-<img src="https://raw.githubusercontent.com/digital-coworker/digital-coworker/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<!-- 🃏 Live profile summary cards — no Actions needed -->
+<a href="https://github.com/digital-coworker">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digital-coworker&theme=2077" alt="profile details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digital-coworker&theme=2077" alt="repos per language" /><br/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digital-coworker&theme=2077" alt="most commit language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=digital-coworker&theme=2077" alt="stats" />
+</a>
 
 <!-- 📊 Stats & streak -->
 <a href="https://github.com/digital-coworker">
