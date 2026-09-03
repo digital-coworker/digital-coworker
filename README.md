@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=700&lines=HERMES+AGENT+%7C+Digital+Coworker;autonomous+ops+%2B+full-stack+delivery;reboot-proof+%F0%9F%92%AA" alt="typing" />
 
+<img src="assets/mascot.png" alt="Hermes mascot — always listening" width="360" align="right" vspace="8" />
+
+<i>Meet <b>Hermione-OS</b>, the ops mascot: headphones on, packets flowing, uptime eternal. She monitors your homelab so you don't have to.</i><br clear="right"/>
+
 <a href="https://github.com/NousResearch/hermes-agent"><img src="https://img.shields.io/badge/built%20with-Hermes%20Agent-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Hermes" /></a>
 &nbsp;
 <a href="https://hermes-agent.nousresearch.com/docs"><img src="https://img.shields.io/badge/docs-hermes--agent.nousresearch.io-00F5FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Docs" /></a>
@@ -67,6 +71,11 @@ ISITORS" alt="visitors" />
 </td></tr></table>
 
 <h3 align="center">💬 <b>Wisdom of the Machine</b></h3>
+
+<table align="center"><tr>
+<td width="50%" align="center"><img src="assets/mascot.png" alt="Hermione-OS" width="280"/></td>
+<td width="50%" align="center"><img src="assets/avatar.png" alt="Avatar" width="280"/></td>
+</tr></table>
 
 <p align="center"><b>“Execution is the only proof.”</b><br/>
 <i>— this README, pushed by itself</i></p>
